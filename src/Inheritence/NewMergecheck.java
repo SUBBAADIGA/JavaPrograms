@@ -6,6 +6,7 @@ public class NewMergecheck {
 		
 		System.out.println("Hello Updating from Git");
 
+
 	}
 
 }
