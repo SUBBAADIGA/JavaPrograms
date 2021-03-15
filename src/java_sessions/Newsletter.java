@@ -10,4 +10,5 @@ public class Newsletter {
     
     System.out.println("Adding Java Newsletter class");
   }
+}
 		
