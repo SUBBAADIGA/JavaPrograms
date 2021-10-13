@@ -8,11 +8,15 @@ public class Arraylistconcept {
 	
 		
 		ArrayList<Integer> numbers=new ArrayList<Integer>(Arrays.asList(1,2,3,4,5,6,7,8,9,10));
+		
+		//comments addded
 //		numbers.remove(7);
 //		System.out.println(numbers);   //[1, 2, 3, 4, 5, 6, 7, 9, 10]
 		
 //		numbers.removeIf(num->num%2==0);
 //		System.out.println(numbers);   //[1, 3, 5, 7, 9]
+		
+		
 		
 		
 		numbers.removeIf(num->num%2!=0);
