@@ -1,9 +1,9 @@
 package HackerEarth;
 
-public class sampleclassforGit {
+public class calsi {
 
 	public static void main(String[] args) {
-		System.out.println("hello");
+		System.out.println("Hello Calsi");
 
 	}
 

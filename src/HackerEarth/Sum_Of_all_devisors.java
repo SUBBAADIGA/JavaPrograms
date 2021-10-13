@@ -3,9 +3,7 @@ package HackerEarth;
 public class Sum_Of_all_devisors {
 
 	public static void main(String[] args) {
-		System.out.println(divSum(4));
-		
-
+		System.out.println(divSum(4)); //Removed Space
 	}
 
 	
